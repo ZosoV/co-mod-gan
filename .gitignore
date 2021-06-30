@@ -5,6 +5,7 @@
 /test/
 /training/_my_pm.pyd
 /.stylegan2-cache/
+/stuff/
 *.db
 *.pyc
 *.dll
